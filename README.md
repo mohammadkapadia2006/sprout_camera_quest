@@ -168,6 +168,7 @@ Young children need multi-sensory reward signals. Visual (confetti), audio (chee
 ## 👨‍💻 Author
 
 **Mohammad Kapadia**
+mohammadkapadia174@gmail.com
 
 
 ---
